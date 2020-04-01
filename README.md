@@ -8,5 +8,6 @@ such as</p>
 <p>Multiply two matrices</p>
 <p>Basic String Manipulation</p>
 <p>Lots of pattern program in C</p>
+<p>And many more :)</p>
 
 ***If you feel that there should be more in this repository then please contribute here!!! i'll be highly thankful to you***
